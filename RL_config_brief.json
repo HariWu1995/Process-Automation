@@ -1,0 +1,43 @@
+{
+  "Process": "Classify_Defect",
+
+  "SCREEN_WIDTH": 1920,
+  "SCREEN_HEIGHT": 1080,
+
+  "UseText": false,
+  "UseIcon": true,
+  "UseTemplate": false
+
+  "WalkOnNodesIncluded": true,
+  "ContinueTraining": true,
+  "WinningSaturation": 128,
+  "MaxPathsInit": 1,
+  "TrainAllPaths": true,
+  "DuplicatePaths": 1,
+  "MaxStoredModels": 103,
+
+  "ArrivalNode": 1,
+  "DestinationNode": 4,
+
+  "MaxEpisode": 543210,
+  "TimeOut": null,
+  "Epsilon": 0.0000001,
+
+  "OptimizerQN": "RMS",
+  "FutureRewardRate": 0.97,
+  "FollowGuidesBaseNumber": 0.97,
+  "LossUpperLimit": 103,
+  "LossInitialForLearningRate": 1.0,
+  "LearningRateForRightPath": 0.019,
+  "LearningRateForWrongPath": 0.031,
+
+  "MaxMovesPerEpisode": 14,
+  "BatchSizeForPeriodicTrain": 64,
+  "TraceLengthForPeriodicTrain": 5,
+  "PeriodForTrainBatch": 16,
+  "PeriodForUpdateTargetBefore1rstWin": 512,
+  "PeriodForUpdateTargetAfter1rstWin": 1024,
+  "PeriodForStoreExperience": 8192,
+  "PeriodForSaveModel": 131072,
+  "SaveModelWithBiggestMove": false
+}

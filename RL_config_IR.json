@@ -1,0 +1,43 @@
+{
+  "Process": "IR",
+
+  "SCREEN_WIDTH": 1280,
+  "SCREEN_HEIGHT": 768,
+
+  "UseText": true,
+  "UseIcon": true,
+  "UseTemplate": false,
+
+  "WalkOnNodesIncluded": true,
+  "ContinueTraining": true,
+  "WinningSaturation": 128,
+  "MaxPathsInit": 1,
+  "TrainAllPaths": true,
+  "DuplicatePaths": 1.0,
+  "MaxStoredModels": 103,
+
+  "ArrivalNode": 1,
+  "DestinationNode": 6,
+
+  "MaxEpisode": 300000,
+  "TimeOut": null,
+  "Epsilon": 0.0000001,
+
+  "OptimizerQN": "RMS",
+  "FutureRewardRate": 0.97,
+  "FollowGuidesBaseNumber": 0.97,
+  "LossUpperLimit": 97,
+  "LossInitialForLearningRate": 1.0,
+  "LearningRateForRightPath": 0.079,
+  "LearningRateForWrongPath": 0.083,
+
+  "MaxMovesPerEpisode": 7,
+  "BatchSizeForPeriodicTrain": 256,
+  "TraceLengthForPeriodicTrain": 2,
+  "PeriodForTrainBatch": 16,
+  "PeriodForUpdateTargetBefore1rstWin": 2048,
+  "PeriodForUpdateTargetAfter1rstWin": 4096,
+  "PeriodForStoreExperience": 16384,
+  "PeriodForSaveModel": 131072,
+  "SaveModelWithBiggestMove": false
+}

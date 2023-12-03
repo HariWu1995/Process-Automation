@@ -1,0 +1,9 @@
+{
+  "Peeling": "F6",
+  "Chipping": "F5",
+  "Scratches": "F4",
+  "Bump_Pass": "SPACE",
+  "Bump_Fail": "F2",
+  "Manual_Accept": "SPACE",
+  "Foreign_Material": "F3"
+}
