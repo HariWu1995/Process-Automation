@@ -1,0 +1,4 @@
+{
+    "checkpoint_path": "ctpn_checkpoints\\",
+    "gpu": "0"
+}

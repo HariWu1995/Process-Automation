@@ -1,0 +1,127 @@
+leftClick_Auto Bond Individual Wire Setting
+leftClick_Work Holder Dry Run
+leftClick_Bond Sequence Control Mode
+leftClick_MHS(WH) Teach
+leftClick_Magazine Hot Key Active For Auto Bond
+leftClick_Machine Diagnostic Tools
+leftClick_OK
+leftClick_1st Bond Stick Detection
+leftClick_Base / Loop Parameters
+leftClick_Load Template
+leftClick_System Software and Data Management
+leftClick_Every
+leftClick_Program Management
+leftClick_Edit Bond Program
+leftClick_GreyLvl
+leftClick_Auto Index
+leftClick_Bond Assistant Setup
+leftClick_PR Quality Score
+leftClick_Double Kick L/F for Clear Track 2nd Factor
+leftClick_Point Number
+leftClick_Manual CRT Bond
+leftClick_Optics Setup
+leftClick_Calibration Log Report
+leftClick_Lead Frame Barcode Scanner Type
+leftClick_Statistics Management
+leftClick_InLine Input Connect To
+leftClick_Option
+leftClick_Detect Vacuum Status
+leftClick_Bonder Wire Usage
+leftClick_Load PR alignment successful 
+leftClick_Verify Index PR Pattern Uniqueness
+leftClick_Skip Die
+leftClick_MHS(WH) Parameters Configuration
+leftClick_Capillary Mark Bond
+leftClick_WC Open Pos: 0600(mm)
+leftClick_Load PR alignment point error
+leftClick_Copper Kit Control Setup
+leftClick_Dry Run Mode
+leftClick_Ball Formation Monitor Assist
+leftClick_Auto Bond General Setting
+leftClick_ASM Additional 2D
+leftClick_First
+leftClick_Close
+leftClick_2nd Bond Stick Detection
+leftClick_Check L/F Position for Mag Operation
+leftClick_Servo Performance Auto Tuning
+leftClick_Bond Parameters
+leftClick_Teach Index PR Align Point
+leftClick_BH Parking Position
+leftClick_Machine Performance Check
+leftClick_Query History
+leftClick_Table Reset Position
+leftClick_[Up/Down]: Adiust Top Plate Open Position
+leftClick_Teach W/C Open Safety Position
+leftClick_Optics Utilities
+leftClick_Setup MHS Device Parameters
+leftClick_Sub System Selection
+leftClick_Close Show Details
+leftClick_Change Heater Top Plate
+leftClick_Pass Level
+leftClick_Transducer Vibration Calibration
+leftClick_Table Position Mapping
+leftClick_BTO Compensation Calibration
+leftClick_Copper Process Properties
+leftClick_Adjust Lead Frame
+leftClick_Free Air Ball Detection
+leftClick_Indexing Setting
+leftClick_Collimator Table Mapping
+leftClick_MHS(WH) M/C Dependent Calibration
+leftClick_Heater Thermal Expansion Test
+leftClick_FISOutRdyAlwaysON
+leftClick_With Wire Inspection
+leftClick_Double Kick L/F for Clear Track 1st Offset
+leftClick_PR Alignment Algorithm
+leftClick_System Administration
+leftClick_Bond Head Calibration
+leftClick_Miscellaneous
+leftClick_Left/Right: Adjust Lead Frame X Direction
+leftClick_[Pgup/PgDown]: Adjust Lead Frame X Step 
+leftClick_Heat Delay Control
+leftClick_Sale Features License Management
+leftClick_Indexer Parking Position
+leftClick_Double Bond Check
+leftClick_Smart Tail Power Control
+leftClick_Cancel
+leftClick_Setup Bond Area Map
+leftClick_Copper
+leftClick_Factory Automation
+leftClick_Clear Track for
+leftClick_Double Kick L/F for Clear Track 2nd Speed
+leftClick_Open
+leftClick_Magnification
+leftClick_Forming Gas Control
+leftClick_Magazine Handler Retry for Auto Bond
+leftClick_Index PR
+leftClick_Auto Rethread Wire
+leftClick_Teach Bond Area
+leftClick_Auto Bond Configuration
+leftClick_Loop Assistant
+leftClick_Preventive Maintenance Schedule
+leftClick_FixPosition
+leftClick_Short Tail Detection
+leftClick_System Control
+leftClick_Machine Power Control Operation
+leftClick_Comm status: PR status:
+leftClick_Magazine Hot Key Active For Auto Bond Off
+leftClick_Stop
+leftClick_Bonder Capillary Usage
+leftClick_Adjust Lead Frame X Step: 0005(mm)
+leftClick_Non-Check Magazine Exist
+leftClick_[Num7]: Toggle to adjust Leadframe in Y direction
+leftClick_Wire End Detection
+leftClick_MHS(WH) Utility Tools
+leftClick_Map
+leftClick_Setting
+leftClick_Low
+leftClick_MHS
+leftClick_Minimum Wire Length
+leftClick_User Guide
+leftClick_WC/TP RealTime Monitor
+leftClick_Off
+leftClick_Bond
+leftClick_PR Align Scan Mode
+leftClick_Indexer Safety Parking Distance
+leftClick_Robust Contact Detection
+leftClick_Disk Utilities
+leftClick_WC TP Delay Control
