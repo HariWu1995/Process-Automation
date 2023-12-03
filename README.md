@@ -2,5 +2,4 @@
 An Automatic Agent working as a Manufacturing Worker
 
 # Demo
-https://youtu.be/iditvxaOWZU
-https://youtu.be/NufMQTqvf4o
+https://youtu.be/iditvxaOWZU and https://youtu.be/NufMQTqvf4o
