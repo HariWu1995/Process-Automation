@@ -1,0 +1,6 @@
+leftClick_LotSearch
+leftClick_LotId
+Wait_LoadingBar
+leftClick_FitSize
+leftClick_ListView
+leftClick_Finish

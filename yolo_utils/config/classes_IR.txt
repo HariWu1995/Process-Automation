@@ -1,0 +1,7 @@
+leftClick_Program
+leftClick_Configure
+leftClick_MHS
+leftClick_Back
+leftClick_Run
+leftClick_OK
+focus_ModeBox

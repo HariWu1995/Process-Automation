@@ -1,0 +1,4 @@
+leftClick_Program
+leftClick_Configure
+leftClick_Back
+leftClick_Run
