@@ -1,0 +1,105 @@
+Magazine Handler Retry for Auto Bond
+System Software and Data Management
+Free Air Ball Detection
+Capillary Mark Bond
+Indexing Setting
+Program Management
+Auto Rethread Wire
+Index PR
+Non-Check Magazine Exist
+Ball Formation Monitor Assist
+Wire End Detection
+Comm status: PR status:
+Skip Die
+Copper Kit Control Setup
+Robust Contact Detection
+Detect Vacuum Status
+WC Open Pos: 0600(mm)
+WC TP Delay Control
+Work Holder Dry Run
+[Up/Down]: Adiust Top Plate Open Position
+Edit Bond Program
+Dry Run Mode
+MHS(WH) Parameters Configuration
+MHS(WH) Teach
+Change Heater Top Plate
+Point Number
+1st Bond Stick Detection
+Query History
+PR Quality Score
+System Administration
+[Num7]: Toggle to adjust Leadframe in Y direction
+BH Parking Position
+Load PR alignment successful 
+Adjust Lead Frame
+User Guide
+Copper Process Properties
+Statistics Management
+Setup Bond Area Map
+Factory Automation
+Verify Index PR Pattern Uniqueness
+Bond Assistant Setup
+Loop Assistant
+With Wire Inspection
+Double Kick L/F for Clear Track 2nd Factor
+Double Kick L/F for Clear Track 2nd Speed
+Auto Bond Configuration
+PR Alignment Algorithm
+Table Reset Position
+Auto Bond Individual Wire Setting
+Double Bond Check
+Load PR alignment point error
+Heater Thermal Expansion Test
+Optics Utilities
+MHS(WH) M/C Dependent Calibration
+Sub System Selection
+Transducer Vibration Calibration
+Optics Setup
+Double Kick L/F for Clear Track 1st Offset
+Bonder Wire Usage
+Bond Sequence Control Mode
+Auto Index
+Disk Utilities
+Clear Track for
+Base / Loop Parameters
+Manual CRT Bond
+Check L/F Position for Mag Operation
+2nd Bond Stick Detection
+Close Show Details
+PR Align Scan Mode
+Collimator Table Mapping
+BTO Compensation Calibration
+Indexer Parking Position
+Lead Frame Barcode Scanner Type
+Left/Right: Adjust Lead Frame X Direction
+Load Template
+Adjust Lead Frame X Step: 0005(mm)
+Machine Performance Check
+Short Tail Detection
+Indexer Safety Parking Distance
+Smart Tail Power Control
+Table Position Mapping
+Magazine Hot Key Active For Auto Bond
+Bonder Capillary Usage
+Teach W/C Open Safety Position
+Sale Features License Management
+Setup MHS Device Parameters
+Preventive Maintenance Schedule
+Heat Delay Control
+MHS(WH) Utility Tools
+InLine Input Connect To
+Bond Head Calibration
+Bond Parameters
+Auto Bond General Setting
+[Pgup/PgDown]: Adjust Lead Frame X Step 
+Calibration Log Report
+Pass Level
+WC/TP RealTime Monitor
+System Control
+Servo Performance Auto Tuning
+Forming Gas Control
+Teach Bond Area
+Machine Diagnostic Tools
+Teach Index PR Align Point
+Machine Power Control Operation
+Minimum Wire Length
